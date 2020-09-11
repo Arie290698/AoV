@@ -24,5 +24,5 @@
 {"t":"https:\/\/i.ibb.co\/Nxqs4s0\/20.jpg","i":"https:\/\/i.ibb.co\/BnbqBhg\/100.jpg","d":"Xie An Jing"},
 {"t":"https:\/\/i.ibb.co\/Nxqs4s0\/20.jpg","i":"https:\/\/i.ibb.co\/BnbqBhg\/100.jpg","d":"Xie An Jing"},
 {"t":"https:\/\/i.ibb.co\/Nxqs4s0\/20.jpg","i":"https:\/\/i.ibb.co\/BnbqBhg\/100.jpg","d":"Xie An Jing"},
-{"t":"https:\/\/i.ibb.co\/Nxqs4s0\/20.jpg","i":"https:\/\/i.ibb.co\/BnbqBhg\/100.jpg","d":"Xie An Jing"},
+{"t":"https:\/\/i.ibb.co\/Nxqs4s0\/20.jpg","i":"https:\/\/i.ibb.co\/BnbqBhg\/100.jpg","d":"Xie An Jing"}
 ]
