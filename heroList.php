@@ -1,2 +1,22 @@
-
-[{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"}]
+[
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Yorn","c":"Marksmen"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Vahein si fidget spinner","c":"Ass Ass In"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"baterflai","c":"mage"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Yorn","c":"Marksmen"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Vahein si fidget spinner","c":"Ass Ass In"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"baterflai","c":"mage"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Yorn","c":"Marksmen"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Vahein si fidget spinner","c":"Ass Ass In"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"baterflai","c":"mage"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Yorn","c":"Marksmen"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Vahein si fidget spinner","c":"Ass Ass In"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"baterflai","c":"mage"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Z23","c":"Azur Lane"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Yorn","c":"Marksmen"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Vahein si fidget spinner","c":"Ass Ass In"},
+{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"baterflai","c":"mage"}
+]
