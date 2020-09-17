@@ -1,3 +1,3 @@
 [
-{"i":"https:\/\/i.ibb.co\/7GRZGBq\/Z23Icon.png","n":"Airi","c":"Warrior/Assassin"}
+{"i":"https:\/\/i.ibb.co\/cbWwxPf\/icon-Airi-base.jpg","n":"Airi","c":"Shadow Dragon Ninja"}
 ]
